@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "nan": "^2.15.0"
+  },
+  "peerDependencies": {
+    "node-gyp": "*"
   }
 }
