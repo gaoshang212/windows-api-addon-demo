@@ -1,0 +1,15 @@
+{
+  "name": "windows-api-addon-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp rebuild",
+    "test": "node ./test/test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "nan": "^2.15.0"
+  }
+}
