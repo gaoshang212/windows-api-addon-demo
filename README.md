@@ -1,4 +1,4 @@
-## 一个 node native addon 的简单例子。
+## 一个 node native addon 调用 windows api 的简单例子。
 
 #### node-gyp 和 msvc 环境自行安装
 
